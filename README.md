@@ -1,4 +1,4 @@
-[cyberkallan](https://raw.githubusercontent.com/cyberkallanyt/kcg-bot/main/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png]
+
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'><a href="https://github.com/cyberkallan" targer="_blank">I'm cyberkallan</a></p>
 <p align='center'>
