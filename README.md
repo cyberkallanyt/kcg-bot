@@ -1,6 +1,6 @@
 
 <h1 align='center'> Hi there! :wave:</h1>
-<p align='center'><a href="https://github.com/cyberkallan" targer="_blank">I'm cyberkallan</a></p>
+<p align='center'><a href="https://github.com/cyberkallan" targer="_blank">Check my github</a></p>
 <p align='center'>
 <a href="https://instagram.com/arz_beats"><img height="30" src="https://raw.githubusercontent.com/cyberkallanyt/kcg-bot/main/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p><br/>
